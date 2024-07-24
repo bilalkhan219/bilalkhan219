@@ -1,4 +1,4 @@
-![Github Profile README.md Header](assets/github-cover.png)
+![Github Profile README.md Header](assets/resize-cover.png)
 
 - 👋 Hi, I’m Bilal Habib
 - 👀 I’m interested in apps and web development
