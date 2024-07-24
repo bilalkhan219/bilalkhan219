@@ -1,3 +1,5 @@
+![Github Profile README.md Header](assets/github-cover.png)
+
 - 👋 Hi, I’m Bilal Habib
 - 👀 I’m interested in apps and web development
 - 🌱 I’m currently learning Futter,React.js,Node.js
